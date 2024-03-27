@@ -1,6 +1,6 @@
 <div align="center">-
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=ONeul%20HOME&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=ONeul's%20HOME&fontSize=40&animation=fadeIn)
 
   ### Hi there 👋
 😜안녕하세요. 코린이 ONeul의 공간입니다.
